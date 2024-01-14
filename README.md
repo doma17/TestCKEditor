@@ -1,7 +1,7 @@
 # CKEditor Test Repository
 
 
-CKEditor는 JavaScript로 작성된 텍스트 에디터입니다.
+[CKEditor](https://ckeditor.com/)는 JavaScript로 작성된 텍스트 에디터입니다.
 
 
 CKEditor의 기본적인 기능과 글 작성/수정, 글 목록에 대한 기능을 사용했습니다.
